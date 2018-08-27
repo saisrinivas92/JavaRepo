@@ -1,4 +1,4 @@
-public class Demo {
+public class SumNat {
 
     public static void main(String[] args) {
 
