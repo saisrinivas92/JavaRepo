@@ -1,3 +1,4 @@
+import java.util.Scanner;
 class CheckEvenOdd
 {
   public static void main(String args[])
